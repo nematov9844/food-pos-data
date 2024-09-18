@@ -243,79 +243,78 @@
           "text": "17 Bowls available"
       }
   ],
-  "grill": [
-    {
-      "id": 1,
-      "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
-      "title": "Grilled Chicken with Veggies",
-      "price": "$ 4.99",
-      "text": "15 Bowls available"
-    },
-    {
-      "id": 2,
-      "img": "https://images.unsplash.com/photo-1610014559204-130bbdc5d576",
-      "title": "Barbecue Ribs",
-      "price": "$ 7.99",
-      "text": "12 Bowls available"
-    },
-    {
-      "id": 3,
-      "img": "https://images.unsplash.com/photo-1605475127623-40cd3a4de5cb",
-      "title": "Grilled Steak with Garlic Butter",
-      "price": "$ 9.99",
-      "text": "10 Bowls available"
-    },
-    {
-      "id": 4,
-      "img": "https://images.unsplash.com/photo-1601315576361-3a4ff6df6e43",
-      "title": "Grilled Fish with Lemon Sauce",
-      "price": "$ 6.49",
-      "text": "18 Bowls available"
-    },
-    {
-      "id": 5,
-      "img": "https://images.unsplash.com/photo-1617633328565-dba1772b3ae8",
-      "title": "Vegetarian Grill Skewers",
-      "price": "$ 3.99",
-      "text": "20 Bowls available"
-    },
-    {
-      "id": 6,
-      "img": "https://images.unsplash.com/photo-1554123163-b6e6e766b40b",
-      "title": "Grilled Shrimp",
-      "price": "$ 8.99",
-      "text": "14 Bowls available"
-    },
-    {
-      "id": 7,
-      "img": "https://images.unsplash.com/photo-1589927986089-3581231f366d",
-      "title": "Grilled Sausage with Peppers",
-      "price": "$ 5.49",
-      "text": "19 Bowls available"
-    },
-    {
-      "id": 8,
-      "img": "https://images.unsplash.com/photo-1546069901-eacef0df6022",
-      "title": "Grilled Pork Chops",
-      "price": "$ 7.29",
-      "text": "9 Bowls available"
-    },
-    {
-      "id": 9,
-      "img": "https://images.unsplash.com/photo-1509420316987-d27a69f10f47",
-      "title": "Grilled Vegetables",
-      "price": "$ 3.59",
-      "text": "25 Bowls available"
-    },
-    {
-      "id": 10,
-      "img": "https://images.unsplash.com/photo-1551218808-94e220e084d2",
-      "title": "Grilled Lamb Chops",
-      "price": "$ 10.49",
-      "text": "7 Bowls available"
-    }
-  ]
-  ,
+  "grill":[
+      {
+          "id": 1,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-1.jpg",
+          "title": "Spicy seasoned seafood noodles",
+          "price": "$ 2.29",
+          "text": "20 Bowls available"
+      },
+      {
+          "id": 2,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-2.jpg",
+          "title": "Salted Pasta with mushroom sauce",
+          "price": "$ 2.69",
+          "text": "11 Bowls available"
+      },
+      {
+          "id": 3,
+          "img": "https://taste-food.com/wp-content/uploads/feature-1600x1000.jpg",
+          "title": "Beef dumpling in hot and sour soup",
+          "price": "$ 2.99",
+          "text": "16 Bowls available"
+      },
+      {
+          "id": 4,
+          "img": "https://cdn.cancercenter.com/-/media/ctca/images/others/blogs/2023/06-june/blog-grilling-l.jpg",
+          "title": "Healthy noodle with spinach leaf",
+          "price": "$ 3.29",
+          "text": "22 Bowls available"
+      },
+      {
+          "id": 5,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-5.jpg",
+          "title": "Hot spicy fried rice with omelet",
+          "price": "$ 3.49",
+          "text": "13 Bowls available"
+      },
+      {
+          "id": 6,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-6.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 7,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-7.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 8,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-8.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 9,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-9.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 10,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-10.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      }
+  ],
 
   "dessert":[
       {
