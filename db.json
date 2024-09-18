@@ -1,0 +1,391 @@
+{
+  "catalog":[
+      {
+          "id": 1,
+          "name": "Hot Dishes",
+          "path": "hotdishes"
+      },
+      {
+          "id": 2,
+          "name": "Cold Dishes",
+          "path": "colddishes"
+      },
+      {
+          "id": 3,
+          "name": "Soup",
+          "path": "soup"
+      },
+      {
+          "id": 4,
+          "name": "Grill",
+          "path": "grill"
+      },
+      {
+          "id": 5,
+          "name": "Dessert",
+          "path": "dessert"
+      }
+  ],
+  "hotdishes":[
+      {
+          "id": 1,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/exps189155_SD153323A06_04_5b-AP.jpg",
+          "title": "Spicy seasoned seafood noodles",
+          "price": "$ 2.29",
+          "text": "20 Bowls available"
+      },
+      {
+          "id": 2,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/exps14479_CW153047B12_12_1b-AP-5.jpg",
+          "title": "Salted Pasta with mushroom sauce",
+          "price": "$ 2.69",
+          "text": "11 Bowls available"
+      },
+      {
+          "id": 3,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/Mexican-Chicken-Bake_EXPS_FT21_22214_F_0729_1-e1720789717913.jpg",
+          "title": "Beef dumpling in hot and sour soup",
+          "price": "$ 2.99",
+          "text": "16 Bowls available"
+      },
+      {
+          "id": 4,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/Meat-Lover-s-Pizza-Hot-Dish_exps152539_SD143203B10_24_6bC_RMS-5.jpg",
+          "title": "Healthy noodle with spinach leaf",
+          "price": "$ 3.29",
+          "text": "22 Bowls available"
+      },
+      {
+          "id": 5,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/Makeover-Tater-Topped-Casserole_EXPS_SDDJ19_45188_E07_24_8b-5.jpg",
+          "title": "Hot spicy fried rice with omelet",
+          "price": "$ 3.49",
+          "text": "13 Bowls available"
+      },
+      {
+          "id": 6,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/Italian-Hot-Dish_EXPS_HCK19_31288_B08_24_2b-1.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 7,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/EXPS_TOHD24_8141_EmilyDavis_08.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 8,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/EXPS_TOHD24_4158_LeticiaAlmeida_10_Social.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 9,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/Chicken-Crouton-Hot-Dish_EXPS_FT21_18097_F_0629_1.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 10,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Hot%20dishes/15-Minute-Meat-Loaf_EXPS_FT23_15894_EC_0829_7.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      }
+  ],
+  "colddishes":[
+      {
+          "id": 1,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_1.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": "$ 2.29",
+          "text": "20 Bowls available"
+      },
+      {
+          "id": 2,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_2.png",
+          "title": "Salted Pasta with mushroom sauce",
+          "price": "$ 2.69",
+          "text": "11 Bowls available"
+      },
+      {
+          "id": 3,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_3.png",
+          "title": "Beef dumpling in hot and sour soup",
+          "price": "$ 2.99",
+          "text": "16 Bowls available"
+      },
+      {
+          "id": 4,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_4.png",
+          "title": "Healthy noodle with spinach leaf",
+          "price": "$ 3.29",
+          "text": "22 Bowls available"
+      },
+      {
+          "id": 5,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_5.png",
+          "title": "Hot spicy fried rice with omelet",
+          "price": "$ 3.49",
+          "text": "13 Bowls available"
+      },
+      {
+          "id": 6,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_6.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 7,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_7.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 8,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_8.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 9,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_9.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 10,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/Cold%20dishes/cold_10.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      }
+  ],
+  
+  "soup":[
+      {
+          "id": 1,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": "$ 2.29",
+          "text": "20 Bowls available"
+      },
+      {
+          "id": 2,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img2.png",
+          "title": "Salted Pasta with mushroom sauce",
+          "price": "$ 2.69",
+          "text": "11 Bowls available"
+      },
+      {
+          "id": 3,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img3.png",
+          "title": "Beef dumpling in hot and sour soup",
+          "price": "$ 2.99",
+          "text": "16 Bowls available"
+      },
+      {
+          "id": 4,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img4.png",
+          "title": "Healthy noodle with spinach leaf",
+          "price": "$ 3.29",
+          "text": "22 Bowls available"
+      },
+      {
+          "id": 5,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img5.png",
+          "title": "Hot spicy fried rice with omelet",
+          "price": "$ 3.49",
+          "text": "13 Bowls available"
+      },
+      {
+          "id": 6,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img6.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 7,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img7.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 8,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img8.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 9,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img9.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 10,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/soup%20dishes/soup_img10.png",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      }
+  ],
+  "grill":[
+      {
+          "id": 1,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-1.jpg",
+          "title": "Spicy seasoned seafood noodles",
+          "price": "$ 2.29",
+          "text": "20 Bowls available"
+      },
+      {
+          "id": 2,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-2.jpg",
+          "title": "Salted Pasta with mushroom sauce",
+          "price": "$ 2.69",
+          "text": "11 Bowls available"
+      },
+      {
+          "id": 3,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-3.jpg",
+          "title": "Beef dumpling in hot and sour soup",
+          "price": "$ 2.99",
+          "text": "16 Bowls available"
+      },
+      {
+          "id": 4,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-4.jpg",
+          "title": "Healthy noodle with spinach leaf",
+          "price": "$ 3.29",
+          "text": "22 Bowls available"
+      },
+      {
+          "id": 5,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-5.jpg",
+          "title": "Hot spicy fried rice with omelet",
+          "price": "$ 3.49",
+          "text": "13 Bowls available"
+      },
+      {
+          "id": 6,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-6.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 7,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-7.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 8,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-8.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 9,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-9.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 10,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/grill/grill-10.jpg",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      }
+  ],
+
+  "dessert":[
+      {
+          "id": 1,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_1.webp",
+          "title": "Spicy seasoned seafood noodles",
+          "price": "$ 2.29",
+          "text": "20 Bowls available"
+      },
+      {
+          "id": 2,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_2.webp",
+          "title": "Salted Pasta with mushroom sauce",
+          "price": "$ 2.69",
+          "text": "11 Bowls available"
+      },
+      {
+          "id": 3,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_3.webp",
+          "title": "Beef dumpling in hot and sour soup",
+          "price": "$ 2.99",
+          "text": "16 Bowls available"
+      },
+      {
+          "id": 4,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_4.webp",
+          "title": "Healthy noodle with spinach leaf",
+          "price": "$ 3.29",
+          "text": "22 Bowls available"
+      },
+      {
+          "id": 5,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_5.webp",
+          "title": "Hot spicy fried rice with omelet",
+          "price": "$ 3.49",
+          "text": "13 Bowls available"
+      },
+      {
+          "id": 6,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_6.webp",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 7,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_7.webp",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 8,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_8.webp",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 9,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_9.webp",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      },
+      {
+          "id": 10,
+          "img": "https://raw.githubusercontent.com/User-Takhirov/Food-images/refs/heads/main/dessert%20dishes/dessert_10.webp",
+          "title": "Spicy instant noodle with special omelette",
+          "price": "$ 3.59",
+          "text": "17 Bowls available"
+      }
+  ]
+}
